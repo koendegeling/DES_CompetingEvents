@@ -3,7 +3,7 @@
 #   Comparing modeling approaches for discrete event simulations with competing risks based on censored individual
 #   patient data: a simulation study and illustration in colorectal cancer
 #
-#   by [BLINDED FOR PEER REVIEW]
+#   by K Degeling, MJ IJzerman, CGM Groothuis-Oudshoorn, MD Franken, M Koopman, MS Clements, H Koffijberg
 # 
 # This code illustrates how the event-specific distributions (ESD) and unimodal distribution and regression model
 # (UDR) modeling approaches can be implemented to model competing events in discrete event simulations using 
@@ -28,7 +28,7 @@
 #
 # Updates of and extensions to this script may be provided online: [BLINDED FOR PEER REVIEW]
 #
-# [BLINDED FOR PEER REVIEW], Friday 5 February 2021, R version 3.6.1
+# Koen Degeling, Friday 5 February 2021, R version 3.6.1
 
 
 
